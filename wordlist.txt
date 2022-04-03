@@ -1,0 +1,17 @@
+pawanptu
+pawanpec
+pawanpk
+admin
+info
+.git/config
+.htaccess
+backup.zip
+ADM
+ADMIN
+ADMON
+AT-admin.cgi
+About
+AboutUs
+Admin
+
+
